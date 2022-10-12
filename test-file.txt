@@ -1,0 +1,3 @@
+This is a sample test file that deliberately contains a spaaaaling mistake.
+
+Please fix it and raise a PR
