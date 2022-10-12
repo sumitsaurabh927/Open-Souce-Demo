@@ -1,4 +1,4 @@
-# Open-Souce-Demo
+# Open-Source-Demo
 
 This repository has been created to demonstrate how to contribute to open source.
 
